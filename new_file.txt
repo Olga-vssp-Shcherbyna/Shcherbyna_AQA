@@ -1,2 +1,6 @@
 new file
+<<<<<<< HEAD
 master branch
+=======
+testing branch
+>>>>>>> testing
